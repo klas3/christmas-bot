@@ -1,0 +1,7 @@
+{
+  "prefix": "!",
+  "activity": "🎄",
+  "garlandInterval": 1000,
+  "emojiBeams": ["🔴", "🟢", "🔵"],
+  "colors": ["BLUE", "RED", "GREEN"]
+}
